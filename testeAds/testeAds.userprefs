@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C3D965EE-0BC3-4993-A527-82095AB6728F}|Default">
+  <MonoDevelop.Ide.ItemProperties.testeAds.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F97AE969-53BA-47DB-A238-BE808FC44D83" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/GoogleService-Info.plist">
+    <Files>
+      <File FileName="iOS/Info.plist" />
+      <File FileName="testeAds/Controls/AdView.cs" Line="9" Column="1" />
+      <File FileName="iOS/Renderer/AdViewRenderer.cs" Line="17" Column="35" />
+      <File FileName="iOS/AppDelegate.cs" Line="18" Column="40" />
+      <File FileName="testeAds/testeAdsPage.xaml" Line="6" Column="23" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="testeAds/testeAdsPage.xaml.cs" Line="18" Column="1" />
+      <File FileName="testeAds/App.xaml" Line="1" Column="1" />
+      <File FileName="testeAds/App.xaml.cs" Line="11" Column="1" />
+      <File FileName="iOS/Main.cs" Line="16" Column="36" />
+      <File FileName="iOS/GoogleService-Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/eldorado/Documents/projects/testeAds/testeAds/testeAds/Controls/AdView.cs" line="9" column="10" />
+      <Breakpoint file="/Users/eldorado/Documents/projects/testeAds/testeAds/testeAds/testeAdsPage.xaml.cs" line="18" column="21" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{C3D965EE-0BC3-4993-A527-82095AB6728F}|Default">
+  <MonoDevelop.Ide.ItemProperties.testeAds.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.2bfcd94069d892c99652c80030e913acffc56bf9" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testeAds.iOS" expanded="True" selected="True">
+            <Node name="testeAds.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
